@@ -29,6 +29,7 @@ APIC
 APROCFREQ
 APSR
 ARMCM
+ARMEB
 Armv
 ARMVFP
 ASTRINGZ
@@ -69,6 +70,7 @@ CANTX
 capitalisation
 cbmc
 CBMC
+cbnz
 cbor
 CBOR
 CCIE
@@ -107,6 +109,8 @@ CLKS
 CLKSOURCE
 CLKSTA
 CLRB
+clrex
+CLREX
 CLRF
 clrm
 CLRPSW
@@ -378,6 +382,7 @@ IFSR
 imajeff
 INACK
 INDF
+initialisations
 inpw
 INTE
 INTFRCH
@@ -428,8 +433,10 @@ LDRAS
 ldrb
 ldrbs
 LDRBS
+ldrex
 LDRNE
 ldsr
+ldxr
 lidt
 LINKR
 LJMP
@@ -505,6 +512,7 @@ movs
 movw
 MOVWF
 movx
+MPIDR
 MPLAB
 MPUCTRL
 MQTT
@@ -649,6 +657,8 @@ PPUDR
 PPUER
 PPUSR
 ppux
+Prbar
+PRBAR
 PRCR
 PREA
 PREB
@@ -656,11 +666,15 @@ PRIA
 Prioritised
 PRIS
 PRIVDEFENA
+Prlar
+PRLAR
 PROCDLY
 PRODH
 PRODL
 PROGE
 Prokic
+Prselr
+PRSELR
 prtmacro
 psha
 psplim
@@ -703,6 +717,7 @@ REENT
 REGA
 RELD
 Renesas
+restoreallgpregisters
 reta
 reti
 RETP
@@ -770,6 +785,8 @@ SCBR
 SCDR
 SCER
 SCSR
+Sctlr
+SCTLR
 SDCC
 SECU
 SENDA
@@ -779,6 +796,7 @@ SETINTENA
 SETPSW
 SETR
 setvect
+sevl
 SFRC
 SHLL
 SHLR
@@ -809,6 +827,7 @@ STTBRK
 STTDLY
 STTOUT
 STTTO
+stxr
 SVACC
 svcne
 SVDIS
@@ -925,6 +944,7 @@ UNSUB
 UNSUBACK
 unsubscriptions
 unsuspended
+unupdated
 UPAC
 URAD
 URAT
